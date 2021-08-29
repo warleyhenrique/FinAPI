@@ -1,6 +1,12 @@
+ ## FinAPI - Financeira
+ 
  ## Curso Ignite Rocketseat - Trilha NodeJS - Chapter II 
  
- ## FinAPI - Financeira
+ ## Techs
+ - NodeJS v14.17.5
+ - Express 4.17.1
+ - uuid v4
+ - Nodemon 2.0.12
 
  ## Requisitos
  - [x] Deve ser possível criar uma conta
