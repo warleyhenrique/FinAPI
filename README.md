@@ -1,6 +1,6 @@
  ## FinAPI - Financeira
  
- ## Curso Ignite Rocketseat - Trilha NodeJS - Chapter II 
+ ## Curso Ignite Rocketseat - Trilha NodeJS - Chapter I
  
  ## Techs
  - NodeJS v14.17.5
